@@ -1,16 +1,5 @@
 # Navicat
 127.0.0.1 activate.navicat.com
-# 大数据
-192.168.3.84 hadoop2
-192.168.3.85 hadoop3
-# 大数据
-192.168.9.173 bigdata1
-192.168.9.174 bigdata2
-192.168.9.175 bigdata3
-# HBase
-10.0.3.32 hb1
-10.0.3.33 hb2
-10.0.3.34 hb3
 # 蒲公英
 10.168.1.10 ds220 ds220plus
 10.168.1.12 j4025
@@ -24,6 +13,8 @@
 127.0.0.1 sublimetext.com 
 127.0.0.1 license.sublimehq.com
 # Google翻译
-64.233.189.191 translate.googleapis.com
+216.239.32.40 translate.googleapis.com
+216.239.32.40 translate.google.com
+216.239.32.40 translate-pa.googleapis.com
 # Rockstar
 202.175.5.105 gamedownloads-rockstargames-com.akamaized.net
